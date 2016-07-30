@@ -1,2 +1,0 @@
-# HugeCanvas
-Huge Backend Challenge
